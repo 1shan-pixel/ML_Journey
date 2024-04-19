@@ -1,0 +1,1 @@
+### We’ll be using derivatives of single-parameter functions and gradients of multivariate functions to perform gradient descent
